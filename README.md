@@ -51,7 +51,7 @@ Título
 Botões para interação com o array
 
 
-### 🔹 style.css
+## 🔹 style.css
 
 Define a aparência do site:
 
@@ -63,7 +63,6 @@ Estilo dos botões
 
 Sombra e espaçamento do container
 
---
 
 ## 🔹 script.js
 
