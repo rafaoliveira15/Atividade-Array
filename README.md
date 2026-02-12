@@ -40,7 +40,7 @@ Ideal para estudantes iniciantes em **lógica de programação** e **JavaScript*
 
 ## 📄 Descrição dos Arquivos
 
-### 🔹 index.html
+## 🔹 index.html
 
 Responsável pela estrutura da página, contendo:
 
@@ -50,7 +50,6 @@ Título
 
 Botões para interação com o array
 
---
 
 ### 🔹 style.css
 
@@ -66,7 +65,7 @@ Sombra e espaçamento do container
 
 --
 
-### 🔹 script.js
+## 🔹 script.js
 
 Contém toda a lógica do projeto:
 
