@@ -52,6 +52,8 @@ Botões para interação com o array
 
 ### 🔹 style.css
 
+-
+
 Define a aparência do site:
 
 Fonte e cores
@@ -62,7 +64,11 @@ Estilo dos botões
 
 Sombra e espaçamento do container
 
+--
+
 ### 🔹 script.js
+
+-
 
 Contém toda a lógica do projeto:
 
