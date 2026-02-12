@@ -50,9 +50,9 @@ Título
 
 Botões para interação com o array
 
-### 🔹 style.css
+--
 
--
+### 🔹 style.css
 
 Define a aparência do site:
 
@@ -67,8 +67,6 @@ Sombra e espaçamento do container
 --
 
 ### 🔹 script.js
-
--
 
 Contém toda a lógica do projeto:
 
